@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\model\\apiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:model\\apiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\model\\apiproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:model\\apiproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|c:\\users\\jimbo\\source\\repos\\olivia\u00B4s bakery - backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208C7FEB-B7BB-4B2A-84BC-74EB744F547E}|OLIVIA\u00B4S BAKERY - BACKEND.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:36:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiProducts.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\ApiProducts.cs",
+              "RelativeDocumentMoniker": "model\\ApiProducts.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\ApiProducts.cs",
+              "RelativeToolTip": "model\\ApiProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:33:51.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\Product.cs",
+              "RelativeDocumentMoniker": "model\\Product.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\Product.cs",
+              "RelativeToolTip": "model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:30:28.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiUser.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\ApiUser.cs",
+              "RelativeDocumentMoniker": "model\\ApiUser.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\ApiUser.cs",
+              "RelativeToolTip": "model\\ApiUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:29:05.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:15:33.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\User.cs",
+              "RelativeDocumentMoniker": "model\\User.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\User.cs",
+              "RelativeToolTip": "model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:18:34.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwCYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:41:05.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:57:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:16:44.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\Login.cs",
+              "RelativeDocumentMoniker": "model\\Login.cs",
+              "ToolTip": "C:\\Users\\jimbo\\source\\repos\\OLIVIA\u00B4S BAKERY - BACKEND\\model\\Login.cs",
+              "RelativeToolTip": "model\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:50:44.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
